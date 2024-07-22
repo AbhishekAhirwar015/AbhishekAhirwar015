@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhishekAhirwar015
 - 👀 I’m interested in Flutter app Development
 - 🌱 I’m currently learning Flutter and Node.js
-- 💞️ I’m looking to collaborate on open source Flutter apps
+- 🛠️ I’m looking to collaborate on open source Flutter apps
 - 📫 How to reach me abhishekahirwar015@gmail.com
 
 <!---
